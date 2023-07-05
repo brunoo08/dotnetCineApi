@@ -1,0 +1,12 @@
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\bin\Debug\net7.0\CineApi.Core.deps.json
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\bin\Debug\net7.0\CineApi.Core.dll
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\bin\Debug\net7.0\CineApi.Core.pdb
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\CineApi.Core.csproj.AssemblyReference.cache
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\CineApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\CineApi.Core.AssemblyInfoInputs.cache
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\CineApi.Core.AssemblyInfo.cs
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\CineApi.Core.csproj.CoreCompileInputs.cache
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\CineApi.Core.dll
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\refint\CineApi.Core.dll
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\CineApi.Core.pdb
+C:\Cursos\Cinema\Back\dotnetCineApi\CineApi\CineApi.Core\obj\Debug\net7.0\ref\CineApi.Core.dll
